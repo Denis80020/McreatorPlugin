@@ -1,0 +1,12 @@
+{
+	"id": "lists",
+	"supportedversions": [
+		2025002
+	],
+	"info": {
+		"name": "Lists",
+		"version": "1.0",
+		"description": "Add new content List.",
+		"author": "daniels0k"
+	}
+}

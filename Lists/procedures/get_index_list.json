@@ -1,0 +1,36 @@
+{
+	"args0": [
+		{
+			"type": "input_value",
+			"name": "index",
+			"check": "Number"
+		},
+		{
+			"type": "input_value",
+			"name": "var",
+			"check": "ListType"
+		},
+		{
+			"type": "field_data_list_selector",
+			"name": "type",
+			"datalist": "supportedtype_get",
+			"testValue": "String"
+		}
+	],
+	"output": null,
+	"inputsInline": true,
+	"colour": "#243D8F",
+	"mcreator": {
+		"toolbox_id": "listens",
+		"toolbox_init": [
+			"<value name=\"index\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+		],
+		"inputs": [
+			"index",
+			"var"
+		],
+		"fields": [
+			"type"
+		]
+	}
+}

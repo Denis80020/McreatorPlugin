@@ -1,0 +1,1 @@
+(${generator.map(field$ype,"supportedtype_get",0)}) ${input$var}.get(${opt.toInt(input$index)})

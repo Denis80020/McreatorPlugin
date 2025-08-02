@@ -1,0 +1,17 @@
+{
+	"args0": [
+		{
+			"type": "field_input",
+			"name": "name_var"
+		}
+	],
+	"output": "Number",
+	"inputsInline": true,
+	"colour": "#243D8F",
+	"mcreator": {
+		"toolbox_id": "listens_utils",
+		"inputs": [
+			"name_var"
+		]
+	}
+}

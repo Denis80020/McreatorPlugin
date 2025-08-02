@@ -1,0 +1,26 @@
+{
+	"args0": [
+		{
+			"type": "input_value",
+			"name": "var",
+			"check": "ListType"
+		},
+		{
+			"type": "input_value",
+			"name": "element"
+		}
+	],
+	"output": "Boolean",
+	"inputsInline": true,
+	"colour": "#243D8F",
+	"mcreator": {
+		"toolbox_id": "listens_lists",
+		"toolbox_init": [
+			"<value name=\"element\"><block type=\"text\"><field name=\"TEXT\">helloworld</field></block></value>"
+		],
+		"inputs": [
+			"var",
+			"element"
+		]
+	}
+}

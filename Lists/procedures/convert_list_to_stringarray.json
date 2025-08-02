@@ -6,12 +6,11 @@
 			"check": "ListType"
 		}
 	],
+	"output": "StringArray",
 	"inputsInline": true,
-	"previousStatement": null,
-	"nextStatement": null,
-	"colour": "#243D8F",
+	"colour": "#60DB87",
 	"mcreator": {
-		"toolbox_id": "listens_lists",
+		"toolbox_id": "arrays_utils",
 		"inputs": [
 			"var"
 		]

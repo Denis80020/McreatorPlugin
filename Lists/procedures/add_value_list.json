@@ -15,7 +15,7 @@
 	"nextStatement": null,
 	"colour": "#243D8F",
 	"mcreator": {
-		"toolbox_id": "listens",
+		"toolbox_id": "listens_lists",
 		"toolbox_init": [
 			"<value name=\"element\"><block type=\"text\"><field name=\"TEXT\">helloworld</field></block></value>"
 		],

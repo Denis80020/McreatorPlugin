@@ -1,0 +1,1 @@
+${input$var}.stream().map(String::valueOf).toArray(String[]:: new)

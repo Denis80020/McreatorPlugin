@@ -21,7 +21,7 @@
 	"inputsInline": true,
 	"colour": "#243D8F",
 	"mcreator": {
-		"toolbox_id": "listens",
+		"toolbox_id": "listens_lists",
 		"toolbox_init": [
 			"<value name=\"index\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
 		],

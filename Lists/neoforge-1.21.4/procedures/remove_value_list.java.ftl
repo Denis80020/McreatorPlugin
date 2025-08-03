@@ -1,1 +1,1 @@
-${input$var}.remove(${opt.toInt(input$element)});
+${input$var}.remove(${opt.toInt(input$index)});

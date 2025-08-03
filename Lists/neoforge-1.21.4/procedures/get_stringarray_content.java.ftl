@@ -1,0 +1,1 @@
+new String[${opt.toInt(input$lengths)}]

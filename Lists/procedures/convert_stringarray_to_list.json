@@ -1,17 +1,18 @@
 {
 	"args0": [
 		{
-			"type": "field_input",
-			"name": "name_foreach"
+			"type": "input_value",
+			"name": "var",
+			"check": "StringArray"
 		}
 	],
-	"output": "Number",
+	"output": "ListType",
 	"inputsInline": true,
 	"colour": "#243D8F",
 	"mcreator": {
 		"toolbox_id": "listens_utils",
-		"fields": [
-			"name_foreach"
+		"inputs": [
+			"var"
 		]
 	}
 }

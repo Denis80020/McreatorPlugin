@@ -1,0 +1,1 @@
+${input$var}[${opt.toInt(input$index)}] = ${input$value};

@@ -7,7 +7,7 @@
 		},
 		{
 			"type": "field_input",
-			"name": "name_var"
+			"name": "name_foreach"
 		},
 		{
 			"type": "input_statement",
@@ -25,9 +25,11 @@
 		"toolbox_id": "listens_utils",
 		"inputs": [
 			"var",
-			"name_var"
 		],
-		"extensions": [
+		"fields": [
+			"name_foreach"
+		],
+		"statements": [
 			{
 				"name": "foreach"
 			}

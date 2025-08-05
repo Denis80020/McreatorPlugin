@@ -1,0 +1,1 @@
+${input$var}.addAll(${input$var_other});

@@ -1,0 +1,25 @@
+{
+	"args0": [
+		{
+			"type": "input_value",
+			"name": "var",
+			"check": "ListType"
+		},
+		{
+			"type": "input_value",
+			"name": "var_other",
+			"check": "ListType"
+		}
+	],
+	"inputsInline": true,
+	"previousStatement": null,
+	"nextStatement": null,
+	"colour": "#243D8F",
+	"mcreator": {
+		"toolbox_id": "listens_lists",
+		"inputs": [
+			"var",
+			"var_other"
+		]
+	}
+}

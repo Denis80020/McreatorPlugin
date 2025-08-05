@@ -1,3 +1,3 @@
-for(int ${input$name_var} = 0; ${input$name_var} < ${input$var}.size(); ${input$name_va}++) {
-		${statement$foreach}
+for(int ${field$name_foreach} = 0; ${field$name_foreach} < ${input$var}.size(); ${field$name_foreach}++) {
+	${statement$foreach}
 }
